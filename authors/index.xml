@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Niklas Wulms</title>
+    <link>https://wulms.github.io/authors/</link>
+      <atom:link href="https://wulms.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 15:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wulms.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>https://wulms.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>Benedikt Sundermann</title>
+      <link>https://wulms.github.io/authors/benedikt-sundermann/</link>
+      <pubDate>Mon, 01 Jun 2020 15:00:00 +0000</pubDate>
+      <guid>https://wulms.github.io/authors/benedikt-sundermann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heike Minnerup</title>
+      <link>https://wulms.github.io/authors/heike-minnerup/</link>
+      <pubDate>Mon, 01 Jun 2020 15:00:00 +0000</pubDate>
+      <guid>https://wulms.github.io/authors/heike-minnerup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Klaus Berger</title>
+      <link>https://wulms.github.io/authors/klaus-berger/</link>
+      <pubDate>Mon, 01 Jun 2020 15:00:00 +0000</pubDate>
+      <guid>https://wulms.github.io/authors/klaus-berger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Niklas Wulms</title>
+      <link>https://wulms.github.io/authors/niklas-wulms/</link>
+      <pubDate>Mon, 01 Jun 2020 15:00:00 +0000</pubDate>
+      <guid>https://wulms.github.io/authors/niklas-wulms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://wulms.github.io/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://wulms.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Niklas Wulms is a Dr. rer. medic. student at the Institute for Epidemiology and Social Medicine at the University-Hospital and Wilhelms-University of Münster. He is investigating the MRI data originating from the population-based healthy cohort of the BiDirect study in the BMBF-funded Nachwuchsgruppe ‘Gender differences in the aging brain – patterns, mechanisms and consequences’.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>https://wulms.github.io/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://wulms.github.io/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
